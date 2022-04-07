@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B26074BD27FF83CD00FEF391 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B26074BC27FF83CD00FEF391 /* SecondViewController.swift */; };
 		B280BF0127FBA71600EECF18 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B280BF0027FBA71600EECF18 /* AppDelegate.swift */; };
 		B280BF0327FBA71600EECF18 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B280BF0227FBA71600EECF18 /* SceneDelegate.swift */; };
 		B280BF0527FBA71600EECF18 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B280BF0427FBA71600EECF18 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B26074BC27FF83CD00FEF391 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		B280BEFD27FBA71600EECF18 /* uitraining.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = uitraining.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B280BF0027FBA71600EECF18 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B280BF0227FBA71600EECF18 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				B280BF0027FBA71600EECF18 /* AppDelegate.swift */,
 				B280BF0227FBA71600EECF18 /* SceneDelegate.swift */,
 				B280BF0427FBA71600EECF18 /* ViewController.swift */,
+				B26074BC27FF83CD00FEF391 /* SecondViewController.swift */,
 				B280BF0627FBA71600EECF18 /* Main.storyboard */,
 				B280BF0927FBA71700EECF18 /* Assets.xcassets */,
 				B280BF0B27FBA71700EECF18 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B26074BD27FF83CD00FEF391 /* SecondViewController.swift in Sources */,
 				B280BF0527FBA71600EECF18 /* ViewController.swift in Sources */,
 				B280BF0127FBA71600EECF18 /* AppDelegate.swift in Sources */,
 				B280BF0327FBA71600EECF18 /* SceneDelegate.swift in Sources */,
